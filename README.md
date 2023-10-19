@@ -15,7 +15,7 @@
 
   ## Problems and bugs while developing
   
-  &nbsp;&nbsp;&nbsp;&nbsp; A bug that persists when playing this game is when falling and losing the last of your health the death screen won't load or the health bar will continue in the wrong direction. I have tried debugging and changing some of the code to fix this bug but haven't found a way to fix it yet.
+  &nbsp;&nbsp;&nbsp;&nbsp; A bug that persists when playing this game is when falling and losing the last of your health the death screen won't load or the health bar will continue in the wrong direction. I have tried debugging and changing some code to fix this bug but haven't found a way to fix it yet.
 
   &nbsp;&nbsp;&nbsp;&nbsp; Overall this was a fun project to work on and a great experience to learn how Unity and C# work. 
 
